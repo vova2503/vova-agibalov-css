@@ -1,0 +1,56 @@
+body{background:#00007f; margin:0; padding: 0; }
+#wrap {width:770px; margin: 0 auto;background:white; }
+#header{height:959px;background:white;}
+#top_menu{height:450px;}
+#leftside{min-height:747px;}
+#main{min-height:1319px;width:766px; background:white;}
+#footer{height:671px;}
+
+.logo {margin: 0px 0px;}
+.image {margin:0px 0px;}
+.text{margin: 20px 90px; }
+.menu {margin: 0px 80px;}
+.leftside{margin: 0px 70px;}
+.talktous{margin:0px 0px}
+.contactus{margin:0px 70px;}
+.map{margin:0px 92px}
+.contactdetails{margin:0px 250px;}
+.contact{margin:0px 110px;}
+
+#name {
+    width:750px;
+}
+#email {
+    width:750px;
+}
+#message {
+    width: 750px;
+    margin:5px;
+    border-radius:5px;
+    height:170px;
+}
+#name,
+#email{
+    margin:5px;
+    border-radius:5px;
+    height:30px;
+}
+
+
+button {
+    width:290px;
+    background-color:#ffa474;
+    color:#ffffff;
+    margin:5px;
+    padding:10px;
+    border-radius:5px;
+    font-weight: bold;
+
+}
+
+
+
+
+
+
+
